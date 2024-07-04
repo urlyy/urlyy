@@ -8,7 +8,7 @@ I am a full-stack software developer. Now studying at Xidian University. I have 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![PG](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -19,7 +19,11 @@ I am a full-stack software developer. Now studying at Xidian University. I have 
 
 
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- 
+徽章来自
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://ileriayo.github.io/markdown-badges/ 
+-->
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urlyy/urlyy/output/github-contribution-grid-snake-dark.svg">
