@@ -1,5 +1,6 @@
 # Hi! 🪽
-I am a full-stack software developer🐹. Now studying at Xidian University. I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society.
+I am a full-stack software developer🐹. Now studying at Xidian University. 
+I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society.
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
