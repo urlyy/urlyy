@@ -1,8 +1,12 @@
 # Hi! 🪽
-I am a full-stack software developer🐹. Now studying at Xidian University. 
-I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society.
+I am a full-stack software developer🐹. Now studying at Xidian University. <br>
+
+I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. <br>
+
+My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
 
 
+# Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
