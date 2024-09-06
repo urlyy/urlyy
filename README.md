@@ -41,6 +41,6 @@ https://ileriayo.github.io/markdown-badges/
 ![](https://github-profile-trophy.vercel.app/?username=urlyy&no-frame=true)
 
 
-![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true&hide=stars)
+![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
 
 
