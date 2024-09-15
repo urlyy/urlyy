@@ -8,8 +8,8 @@ My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的
 
 # Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -23,7 +23,7 @@ My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=urlyy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&langs_count=10&text_color=fff&hide=html,css,Cython,TypeScript,Jupyter%20notebook,Starlark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urlyy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&langs_count=10&text_color=fff&hide=html,css,Cython,TypeScript,Jupyter%20notebook,Starlark,scss,less)
 
 
 <!-- 
