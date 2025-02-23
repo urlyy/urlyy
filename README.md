@@ -1,5 +1,5 @@
 # Hi!🪽
-I am a full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. <br>
+I am a Chinese full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. <br>
 
 I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. <br>
 
