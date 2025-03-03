@@ -1,13 +1,13 @@
 # Hi!🪽
-I am a Chinese full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. <br>
+I am a Chinese full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. 
 
-I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. <br>
-
-My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
+I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. 
 
 I participated in the 2024 Open Source Promotion Plan (OSPP) and Tencent's Rhinoceros Bird Open Source Program.
 
 My awards are listed at: [awards](https://github.com/urlyy/awards)
+
+My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
 
 # Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
