@@ -7,8 +7,6 @@ I participated in the 2024 Open Source Promotion Plan (OSPP) and Tencent's Rhino
 
 My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
 
-我的获奖及证书: [awards](https://github.com/urlyy/awards)
-
 # Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
