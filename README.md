@@ -1,9 +1,11 @@
 # Hi!🪽
 I am a Chinese full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. 
 
+I am a committer of [Apache Fory](https://github.com/apache/fory).
+
 I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. 
 
-I participated in the 2024 Open Source Promotion Plan (OSPP) and Tencent's Rhinoceros Bird Open Source Program.
+I participated in the 2024/2025 Open Source Promotion Plan (OSPP) and 2024 Tencent's Rhinoceros Bird Open Source Program.
 
 My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
 
