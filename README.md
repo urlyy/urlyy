@@ -9,6 +9,8 @@ I participated in the 2024/2025 Open Source Promotion Plan (OSPP) and 2024 Tence
 
 My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
 
+![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
+
 # Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -42,8 +44,3 @@ https://ileriayo.github.io/markdown-badges/
 </picture>
 -->
 ![](https://github-profile-trophy.vercel.app/?username=urlyy&no-frame=true)
-
-
-![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
-
-
