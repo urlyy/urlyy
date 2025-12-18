@@ -1,5 +1,5 @@
 # Hi!🪽
-I am a Chinese full-stack software developer🐹. Now studying at Xidian University and expected to graduate with a master's degree in 2027-07. 
+I am a Chinese full-stack software developer🐹. Now studying at Guangzhou Institute of Technology, Xidian University and expected to graduate with a master's degree in 2027-07. 
 
 I am a committer of [Apache Fory](https://github.com/apache/fory). See at https://people.apache.org/phonebook.html?unix=fory
 
