@@ -9,7 +9,7 @@ I participated in the 2024/2025 Open Source Promotion Plan (OSPP) and 2024 Tence
 
 I hope to become a creator, not just a worker.
 
-My favorite saying is "不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的"
+My favorite saying is `不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的。`
 
 ![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
 
