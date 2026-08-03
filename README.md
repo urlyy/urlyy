@@ -11,6 +11,9 @@ I hope to become a creator, not just a worker.
 
 My favorite saying is `不为敌之其势汹汹所吓倒，不为尚能忍耐的困难所沮丧，不为某些挫折而灰心，给予必要的耐心和持久，是完全必要的。`
 
+# Internship
+- ByteDance, Douyin R&D – Service Architecture (2026.5 – Present)
+
 ![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
 
 # Tech Stack
