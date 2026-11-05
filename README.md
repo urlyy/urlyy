@@ -3,9 +3,9 @@ I am a Chinese full-stack software developer🐹. Now studying at Guangzhou Inst
 
 I am a committer of [Apache Fory](https://github.com/apache/fory). See at https://people.apache.org/phonebook.html?unix=fory
 
-I have a great passion for open-source and hope to participate in work that is beneficial to the industry and society. 
 
-I participated in the 2024/2025 Open Source Promotion Plan (OSPP) and 2024 Tencent's Rhinoceros Bird Open Source Program.
+
+I participated in the 2024/2025 Open Source Promotion Plan (OSPP) and 2024 Tencent's Rhinoceros Bird Open Source Program. See at [wiki](https://github.com/Tencent/cherry-markdown/wiki/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%20%E7%94%B1%20urlyy%20%E8%B4%A1%E7%8C%AE).
 
 I hope to become a creator, not just a worker.
 
@@ -22,12 +22,12 @@ My favorite saying is `不为敌之其势汹汹所吓倒，不为尚能忍耐的
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![PG](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
