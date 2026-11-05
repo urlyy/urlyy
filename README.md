@@ -14,7 +14,7 @@ My favorite saying is `不为敌之其势汹汹所吓倒，不为尚能忍耐的
 # Internship
 - ByteDance, Douyin R&D – Service Architecture (2026.5 – 2026.10)
 
-![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=urlyy&show_icons=true&theme=panda&count_private=true) -->
 
 # Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@ My favorite saying is `不为敌之其势汹汹所吓倒，不为尚能忍耐的
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=urlyy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&langs_count=10&text_color=fff&hide=html,css,Cython,TypeScript,Jupyter%20notebook,Starlark,scss,less)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urlyy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&langs_count=10&text_color=fff&hide=html,css,Cython,TypeScript,Jupyter%20notebook,Starlark,scss,less) -->
 
 
 <!-- 
@@ -48,4 +48,4 @@ https://ileriayo.github.io/markdown-badges/
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/urlyy/urlyy/output/github-contribution-grid-snake.svg">
 </picture>
 -->
-![](https://github-profile-trophy.vercel.app/?username=urlyy&no-frame=true)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=urlyy&no-frame=true) -->
